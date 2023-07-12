@@ -22,14 +22,6 @@ News Now is a responsive website that displays the latest news articles in vario
 2. Open `index.html` in your web browser.
 3. Explore the different sections and click on the links to view the corresponding news articles.
 
-## Screenshots
-
-![image](https://github.com/RawHit02/Amar_jagran_news/assets/107709247/0522e102-90be-4633-a001-70c0cb0b3fc5)
-
-
-![image](https://github.com/RawHit02/Amar_jagran_news/assets/107709247/67f1ea11-e156-491e-b941-cb6d58f7f950)
-
-
 
 ## Contributing
 
