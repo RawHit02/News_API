@@ -1,4 +1,5 @@
 # अमर जागरण_समाचार
+![image](https://github.com/RawHit02/News_API/assets/107709247/51db747c-3014-4fc5-bc35-6a8f116a96c1)
 
 # News Now
 
