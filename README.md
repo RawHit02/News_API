@@ -4,6 +4,12 @@
 
 News Now is a responsive website that displays the latest news articles in various categories such as business, technology, and sports.
 
+# S S
+![image](https://github.com/RawHit02/News_API/assets/107709247/b5471837-93bd-4e3a-b733-7f8ffaad23cd)
+![image](https://github.com/RawHit02/News_API/assets/107709247/8586dfe3-8b9b-4202-96e5-5b11754eb23e)
+
+
+
 ## Features
 
 - View the latest news articles in different categories
