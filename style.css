@@ -1,6 +1,4 @@
-
-/* style.css */
-
+/* Default styles for all screen sizes */
 /* Add a black border to images on hover */
 img:hover {
   border: 1px solid black;
@@ -20,6 +18,13 @@ p.highlight {
     
 
 }
+
+/* Common styles for smaller screens */
+.text-center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
 .btn{
     align-items:center;
 
@@ -27,4 +32,53 @@ p.highlight {
 .text-warning{
     text-align:center;
     margin-left:34rem;
+}
+
+/* Responsive styles for different screen sizes */
+/* For screens up to 400px width */
+@media screen and (max-width: 400px) {
+  .text-warning {
+    margin-left: 0;
+  }
+  /* Additional styles for screens up to 400px */
+}
+
+/* For screens between 401px and 600px width */
+@media screen and (min-width: 401px) and (max-width: 600px) {
+  .text-warning {
+    margin-left: 10px;
+  }
+  /* Additional styles for screens between 401px and 600px */
+}
+
+/* For screens between 601px and 900px width */
+@media screen and (min-width: 601px) and (max-width: 900px) {
+  .text-warning {
+    margin-left: 20px;
+  }
+  /* Additional styles for screens between 601px and 900px */
+}
+
+/* For screens between 901px and 1200px width */
+@media screen and (min-width: 901px) and (max-width: 1200px) {
+  .text-warning {
+    margin-left: 30px;
+  }
+  /* Additional styles for screens between 901px and 1200px */
+}
+
+/* For screens between 1201px and 1400px width */
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+  .text-warning {
+    margin-left: 40px;
+  }
+  /* Additional styles for screens between 1201px and 1400px */
+}
+
+/* For screens larger than 1400px */
+@media screen and (min-width: 1401px) {
+  .text-warning {
+    margin-left: 50px;
+  }
+  /* Additional styles for screens larger than 1400px */
 }
